@@ -11,7 +11,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 </p>
 
 ### Stats:
-<details>
+<!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
     - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
@@ -21,7 +21,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - 📫 How to reach me: <a href="mailto:kikiyuniarkristiawan98@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
-</details>
+</details> -->
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=kikiyuniar&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kikiyuniar&layout=compact" height=180 />
