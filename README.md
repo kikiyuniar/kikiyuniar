@@ -5,7 +5,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 <p>
 <!--     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> -->
 <!--     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> -->
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+<!--     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> -->
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/kikiyuniar" />
 </p>
@@ -30,7 +30,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Let's connect!
 <p>
 <!--     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
-    <a href="https://linkedin.kikiyuniar.com" target="blank"><img src="https://media-exp1.licdn.com/dms/image/C5603AQEl5wZsjxa4VQ/profile-displayphoto-shrink_200_200/0/1643246502142?e=1651708800&v=beta&t=HRHpyd0S4v_bMXlD0FesBmZrlUGBpQ5IfIvHkTa9Lws" /></a>
+    <a href="https://linkedin.kikiyuniar.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
 <!--     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a> -->
 <!--     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a> -->
 <!--     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
