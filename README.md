@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Kiki Yuniar Kristiawan!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently working Freelance, and I love learn new thing in programming such as Javascript, PHP.  
 
 ### Tools:
 <p>
